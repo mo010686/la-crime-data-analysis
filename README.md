@@ -81,6 +81,8 @@ jupyter notebook "crime data in vs code.ipynb"
 ---
 
 ## 👤 Author
-**Mohamed Hamdy**
-- GitHub: [@mo010686](https://github.com/mo010686)
-- LinkedIn: [Mohamed Hamdy](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+**Mohamed Hamdy Ali Eldin**
+- 💼 LinkedIn: [Mohamed Hamdy Ali Eldin](https://www.linkedin.com/in/mohamed-hamdy-ali-eldin-501a03286)
+- 📊 Tableau Public: [Mohamed Ali](https://public.tableau.com/app/profile/mohamed.ali1171/vizzes)
+- 📧 Email: [mohamedalieldin70@gmail.com](mailto:mohamedalieldin70@gmail.com)
+- 🌐 GitHub: [@mo010686](https://github.com/mo010686)
